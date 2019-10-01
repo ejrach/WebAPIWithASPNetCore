@@ -1,5 +1,7 @@
 ﻿Tutorial comes from: 
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.0&tabs=visual-studio
 
-Uses ASP.NET Core 3.0
-Web API
+Uses:
+1. ASP.NET Core 3.0
+2. Web API
+3. In memory database
